@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rfernandezapML/testdep2#readme",
   "dependencies": {
-    "testdep1": "1.0.1"
+    "testdep1": "1.0.0"
   }
 }
