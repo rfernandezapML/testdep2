@@ -1,0 +1,22 @@
+{
+  "name": "@rrffaa/testdep2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfernandezapML/testdep2.git"
+  },
+  "author": "ro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfernandezapML/testdep2/issues"
+  },
+  "homepage": "https://github.com/rfernandezapML/testdep2#readme",
+  "dependencies": {
+    "testdep1": "^1.0.1"
+  }
+}
